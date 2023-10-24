@@ -17,7 +17,7 @@ console.log(Array.isArray(mezclado));
 dias.push('Jueves')
 console.log(dias)
 
-//agregar elementos en el arreglos al final
+//agregar elementos en el arreglos al inicio
 dias.unshift('inicioAgregado')
 console.log(dias)
 

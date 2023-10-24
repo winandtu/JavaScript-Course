@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Documents/JAVASCRIPT-CURSO"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "universidad"
+	}
+}

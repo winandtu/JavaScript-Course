@@ -14,7 +14,7 @@
 //Ejemplos:
 
 const pueblos = ['Cordoba','Puerres','Ipiales','Iles'];
-const ordenes = new Set([174,442,123,012]);
+const ordenes = new Set([174,442,123,112]);
 let datos = new Map(); 
 datos.set('Nombre','Danilo');
 datos.set('codigo','1926167');
