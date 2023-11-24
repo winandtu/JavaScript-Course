@@ -1,1 +1,1 @@
-# JavaScritp-Course
+# JavaScript-Course
